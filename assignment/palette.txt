@@ -1,0 +1,12 @@
+color palette
+FF6138 grapefruit
+FFFF9D pale lemon
+BEEB9F pale lime
+79BD8F mint
+00A388 evergreen
+F9D95D orange juice
+519CFF soft blue
+5A934B tough green
+435671 gray blue
+C1080B red
+204171 navy blue
